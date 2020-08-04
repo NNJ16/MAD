@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Onet TMS</string>
+    <string-array name="status">
+        <item>Delivered</item>
+        <item>Return</item>
+    </string-array>
+</resources>
