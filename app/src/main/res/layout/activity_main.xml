@@ -102,7 +102,7 @@
             android:layout_alignParentRight="false"
             android:layout_centerHorizontal="true"
             android:layout_marginTop="130dp"
-            android:text="Tracking Management System"
+            android:text="Tracking Management System v1.0"
             android:textColor="#015714"
             android:textSize="16sp"
             tools:text="Tracking Management System" />
